@@ -23,7 +23,7 @@ Sinta-se à vontade para entrar em contato comigo através de qualquer uma das m
 
 ## 🌱 Aprendendo
 
-Atualmente, estou focado em aprimorar minhas habilidades em NestJS, Prisma e Flutter, além de aprofundar meus conhecimentos em Engenharia de Software.
+Atualmente, estou focado em aprimorar minhas habilidades em Typescript, React, e NextJS além de aprofundar meus conhecimentos atuais.
 
 ---
 
